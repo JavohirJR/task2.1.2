@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping(value = "/api/task")
+@RequestMapping(value = "/api/language")
 public class ProgrammingLangController {
 
     @Autowired

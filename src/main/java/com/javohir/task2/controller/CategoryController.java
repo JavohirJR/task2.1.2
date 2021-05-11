@@ -19,7 +19,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping(value = "/api/category")
-public class CategoryLangController {
+public class CategoryController {
 
     @Autowired
     CategoryService categoryService;

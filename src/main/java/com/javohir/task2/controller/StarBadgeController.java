@@ -19,7 +19,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping(value = "/api/category")
+@RequestMapping(value = "/api/star-badge")
 public class StarBadgeController {
 
     @Autowired
